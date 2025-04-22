@@ -1,0 +1,6 @@
+pillow
+pytesseract
+opencv-python
+numpy
+pandas
+ultralytics

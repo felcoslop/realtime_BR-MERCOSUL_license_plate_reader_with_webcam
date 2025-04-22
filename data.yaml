@@ -1,0 +1,5 @@
+train: dataset/train/images
+val: dataset/val/images
+test: dataset/test/images
+nc: 1  # Número de classes (1 para "placa")
+names: ['placa']  # Nome da classe
